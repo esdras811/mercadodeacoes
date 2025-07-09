@@ -16,4 +16,4 @@ Este projeto combina visualizações financeiras com narrativas automatizadas pa
 Abra o arquivo `.pbix` ou veja as capturas de tela incluídas.
 
 ## 🖼 Captura de Tela
-![Ações]()
+![Ações](Captura de tela 2025-07-03 131543.png)
